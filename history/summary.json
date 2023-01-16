@@ -4,18 +4,19 @@
     "url": "https://jellyfin.catgirls.cyou",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.catgirls.cyou.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "82.80%",
-    "uptimeDay": "74.01%",
-    "uptimeWeek": "82.80%",
-    "uptimeMonth": "82.80%",
-    "uptimeYear": "82.80%",
+    "status": "down",
+    "uptime": "82.91%",
+    "uptimeDay": "74.00%",
+    "uptimeWeek": "82.91%",
+    "uptimeMonth": "82.91%",
+    "uptimeYear": "82.91%",
     "time": 1190,
     "timeDay": 1313,
     "timeWeek": 1190,
     "timeMonth": 1190,
     "timeYear": 1190,
     "dailyMinutesDown": {
+      "2023-01-16": 0,
       "2023-01-15": 374
     }
   }
