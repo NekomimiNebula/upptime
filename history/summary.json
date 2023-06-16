@@ -4,7 +4,7 @@
     "url": "https://jellyfin.catgirls.cyou",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.catgirls.cyou.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "66.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "45.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 1815,
     "timeYear": 1585,
     "dailyMinutesDown": {
+      "2023-06-16": 0,
       "2023-06-13": 1328,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
