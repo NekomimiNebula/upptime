@@ -1,7 +1,7 @@
 url: https://jellyfin.catgirls.cyou
-status: down
-code: 502
-responseTime: 3039
-lastUpdated: 2024-01-30T23:12:54.734Z
+status: up
+code: 200
+responseTime: 1252
+lastUpdated: 2024-01-31T18:17:50.239Z
 startTime: 2023-01-14T13:08:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
