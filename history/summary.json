@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.catgirls.cyou.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "81.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "86.23%",
-    "uptimeMonth": "94.19%",
+    "uptime": "81.34%",
+    "uptimeDay": "74.75%",
+    "uptimeWeek": "84.41%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "86.53%",
-    "time": 1503,
-    "timeDay": 835,
-    "timeWeek": 1383,
-    "timeMonth": 1911,
-    "timeYear": 1530,
+    "time": 1505,
+    "timeDay": 2639,
+    "timeWeek": 1436,
+    "timeMonth": 1939,
+    "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-03-01": 0,
+      "2024-03-02": 65,
+      "2024-03-01": 299,
       "2024-02-29": 61,
       "2024-02-28": 39,
       "2024-02-27": 428,
@@ -119,8 +120,7 @@
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
-      "2023-03-04": 1440,
-      "2023-03-03": 1101
+      "2023-03-04": 1440
     }
   }
 ]
